@@ -9,5 +9,4 @@
 
 ## My Projects:
 https://github.com/MaxOleniuh/goit-js-command-project
-[![MarvelLibrary](https://img.shields.io/badge/-MarvelLibrary-lightblue?style=for-the-badge&logo=&logoColor=fff)](https://github.com/MaxOleniuh/
-goit-js-command-project)
+
