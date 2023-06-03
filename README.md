@@ -17,4 +17,4 @@
 
 ### A budget manager which helps to control spendings and income.
 
-![BudgetBoss](https://img.shields.io/badge/-Budget_Boss-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://pra78.github.io/goit-bc50-react-project/)
+[![BudgetBoss](https://img.shields.io/badge/-Budget_Boss-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://pra78.github.io/goit-bc50-react-project/)
