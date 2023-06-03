@@ -12,3 +12,9 @@
 ![StyledComponents](https://img.shields.io/badge/-Styled_Components-pink?style=for-the-badge&logo=StyledComponents&logoColor=fff)
 ![MUI](https://img.shields.io/badge/-MUI-purple?style=for-the-badge&logo=MUI&logoColor=fff)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-purple?style=for-the-badge&logo=Tailwind&logoColor=fff)
+
+## Some Projects:
+
+### A budget manager which helps to control spendings and income.
+
+![BudgetBoss](https://img.shields.io/badge/-Budget_Boss-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://pra78.github.io/goit-bc50-react-project/)
