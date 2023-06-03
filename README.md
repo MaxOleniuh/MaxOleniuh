@@ -19,6 +19,14 @@
 
 [![BudgetBoss](https://img.shields.io/badge/-Budget_Boss-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://pra78.github.io/goit-bc50-react-project/)
 
-### A phonebook which stores your contacts
+### A phonebook which stores your contacts.
 
 [![Phonebook](https://img.shields.io/badge/-Phone_Book-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://maxoleniuh.github.io/goit-react-hw-08-phonebook/)
+
+### Landing website that allows you to order food.
+
+[![FoodSta](https://img.shields.io/badge/-Food_Sta-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://pra78.github.io/goit-bc50-html-css-project/)
+
+### Image finder
+
+[![ImageGallery](https://img.shields.io/badge/-Food_Sta-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://maxoleniuh.github.io/goit-react-hw-04-images/)
