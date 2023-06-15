@@ -29,4 +29,4 @@
 
 ### Image finder
 
-[![ImageGallery](https://img.shields.io/badge/-Food_Sta-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://maxoleniuh.github.io/goit-react-hw-04-images/)
+[![ImageGallery](https://img.shields.io/badge/-Image_Finder-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://maxoleniuh.github.io/goit-react-hw-04-images/)
