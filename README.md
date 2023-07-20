@@ -12,3 +12,6 @@
 ![React](https://img.shields.io/badge/-React-lightblue?style=for-the-badge&logo=React&logoColor=fff)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=for-the-badge&logo=NodeJS&logoColor=fff)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-purple?style=for-the-badge&logo=Tailwind&logoColor=fff)
+
+## Check out my new project!
+### https://maxoleniuh.github.io/weather-app/
