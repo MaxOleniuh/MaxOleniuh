@@ -14,4 +14,5 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-purple?style=for-the-badge&logo=Tailwind&logoColor=fff)
 
 ## Check out my new project!
-[![WeatherApp](https://img.shields.io/badge/-WeatherApp-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://maxoleniuh.github.io/weather-app/)
+### Weather App - Stay informed about temperature, humidity, wind speed, and more.
+[![Weather App](https://img.shields.io/badge/-WeatherApp-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://maxoleniuh.github.io/weather-app/)
