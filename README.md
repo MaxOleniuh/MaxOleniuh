@@ -2,12 +2,25 @@
 
 I'm a proactive problem solver with a passion for technology and a strong skill set in web development. I specialize in creating functional applications using the following technologies:
 
-- Frontend: React, JavaScript/TypeScript, HTML, CSS
-- Backend: Node.js
-- Databases: MongoDB, MySQL
-- Styling: CSS, Sass, Tailwind CSS
-- Version Control: Git, GitHub
-- IDE: Visual Studio Code
+- Frontend: 
+  - React ⚛️
+  - JavaScript/TypeScript 🚀
+  - HTML5 🌐
+  - CSS3 🎨
+- Backend: 
+  - Node.js 🌐
+- Databases: 
+  - MongoDB 🍃
+  - MySQL 🗄️
+- Styling: 
+  - CSS 🎨
+  - Sass 💅
+  - Tailwind CSS 🌬️
+- Version Control: 
+  - Git 🐙
+  - GitHub 🚀
+- IDE: 
+  - Visual Studio Code 💻
 
 ## About Me
 
