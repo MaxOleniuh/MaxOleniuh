@@ -1,33 +1,28 @@
-## Welcome to my profile!
+# Welcome to my Profile!
 
-### I am a proactive problem-solver with skills in React, JavaScript/Typescript, NodeJS, HTML and CSS. I enjoy developing functional applications and sharing my work with others. I am passionate about technology and constantly seeking to improve my skills.
+I'm a proactive problem solver with a passion for technology and a strong skill set in web development. I specialize in creating functional applications using the following technologies:
 
-### My stack
+- Frontend: React, JavaScript/TypeScript, HTML, CSS
+- Backend: Node.js
+- Databases: MongoDB, MySQL
+- Styling: CSS, Sass, Tailwind CSS
+- Version Control: Git, GitHub
+- IDE: Visual Studio Code
 
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+## About Me
 
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+I'm passionate about technology and constantly strive to enhance my skills. I'm driven by a desire to build impactful projects and collaborate with others in the developer community.
 
-<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+## My Latest Project
 
-<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+Check out my latest project, the **Weather App**, which allows you to stay informed about real-time weather conditions, including temperature, humidity, and wind speed.
 
-<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+[![Weather App](https://img.shields.io/badge/-Weather%20App-334455?style=for-the-badge&logo=&logoColor=fff)](https://maxoleniuh.github.io/weather-app/)
 
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+Explore the project [here](https://maxoleniuh.github.io/weather-app/) and experience the power of real-time weather information.
 
-<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+## Let's Connect
 
-<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+Feel free to reach out to me for collaboration, project inquiries, or just to chat about technology and development.
 
-<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
-
-<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-## Check out my new project!
-### Weather App - Stay informed about temperature, humidity, wind speed, and more.
-[![Weather App](https://img.shields.io/badge/-WeatherApp-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://maxoleniuh.github.io/weather-app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/your-profile)
