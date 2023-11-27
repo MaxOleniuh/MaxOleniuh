@@ -35,5 +35,5 @@
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 ## Check out my new project!
-### Weather App - Stay informed about temperature, humidity, wind speed, and more.
-[![Weather App](https://img.shields.io/badge/-WeatherApp-darkblue?style=for-the-badge&logo=&logoColor=fff)](https://maxoleniuh.github.io/weather-app/)
+### Netflix clone
+[![Netflix](https://img.shields.io/badge/-Netflix-darkblue?style=for-the-badge&logo=&logoColor=fff)]([https://netflix-deploy-tutorial.vercel.app/](https://netflix-deploy-tutorial.vercel.app/))
