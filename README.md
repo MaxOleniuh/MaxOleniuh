@@ -36,4 +36,4 @@
 
 ## Check out my new project!
 ### Netflix clone
-[![Netflix](https://img.shields.io/badge/-Netflix-darkblue?style=for-the-badge&logo=&logoColor=fff)]([https://netflix-deploy-tutorial.vercel.app/](https://netflix-deploy-tutorial.vercel.app/))
+<a href="https://netflix-deploy-tutorial.vercel.app">Netflix Clone</a>
