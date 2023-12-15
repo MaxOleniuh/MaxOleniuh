@@ -1,6 +1,6 @@
 ## Welcome to my profile!
 
-### I am a proactive problem-solver with skills in React, JavaScript/Typescript, NodeJS, HTML and CSS. I enjoy developing functional applications and sharing my work with others. I am passionate about technology and constantly seeking to improve my skills.
+### I am a proactive problem-solver with expertise in React, JavaScript/TypeScript, Node.js, HTML, and CSS. I specialize in developing functional and user-friendly applications, leveraging my strong skills in front-end technologies. My experience in React includes building responsive and interactive user interfaces, and I am adept at writing clean and maintainable code. Passionate about technology, I am committed to staying abreast of industry trends and continuously enhancing my skills. I derive satisfaction from crafting innovative solutions and take pride in sharing my work with the community. With a keen interest in creating seamless digital experiences, I am enthusiastic about contributing to projects that push the boundaries of what technology can achieve.
 
 ### My stack
 
